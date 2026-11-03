@@ -1,4 +1,4 @@
-Elus OS v0.1 'Elus Glass' - SO de aventura com visual de vidro liquido (ASM + C)
+Elus OS v0.4 'Elus Glass' - SO de aventura com visual de vidro liquido (ASM + C)
 
 Requisitos no Windows:
   - NASM        (no PATH)

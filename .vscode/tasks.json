@@ -1,0 +1,9 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "Build", "type": "shell", "command": "build.bat",
+      "group": { "kind": "build", "isDefault": true }, "problemMatcher": ["$gcc"] },
+    { "label": "Build + Rodar", "type": "shell", "command": "build.bat && run.bat",
+      "problemMatcher": [] }
+  ]
+}
